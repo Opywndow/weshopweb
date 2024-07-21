@@ -1,0 +1,16 @@
+[
+    {
+        "filename": "example_game.exe",
+        "icon": "example_icon.png",
+        "title": "Example Game",
+        "likes": 0,
+        "dislikes": 0
+    },
+    {
+        "filename": "new_game.exe",
+        "icon": "new_icon.png",
+        "title": "New Game",
+        "likes": 0,
+        "dislikes": 0
+    }
+]
